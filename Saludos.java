@@ -12,6 +12,7 @@ public class Saludos
     public static void main(String[] args) {
         System.out.println("Hola Cristina");
         System.err.println("Welcome Cristina");
+        System.out.println("Bounjour Cristina");
     }
     
 }
